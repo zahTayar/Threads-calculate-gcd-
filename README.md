@@ -191,8 +191,5 @@ int main(int arg, char* argv[]) {
 	if (close(fd1_in[WRITE])==-1)	return 0;
 	
 	return EXIT_SUCCESS;
-
-
-
 }
 
