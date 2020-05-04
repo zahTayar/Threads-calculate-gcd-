@@ -1,9 +1,9 @@
 # exe1OpS
 /*
-exercise one in operation systems
+exercise one in operation systems,
 Read from text numbers and build two process 
 From each get two numbers and calculate the gcd 
-The communication between them happend with pipes
+The communication between them happen with pipes
 */
 
 //v2_child
