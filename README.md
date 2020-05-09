@@ -1,4 +1,4 @@
-# exe1OpS
+# Threads calculate gcd
 /*
 exercise one in operation systems,
 Read from text numbers and build two process 
